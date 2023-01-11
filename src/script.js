@@ -16,6 +16,7 @@ $(document).ready(function(){
          $('.top').hide();
         }
      });
+     //smooth scrolling
      
      $('a[href*="#"]').on('click',function(e){
 
